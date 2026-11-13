@@ -1,2 +1,2 @@
-# jaisonraj
-simple python code
+name = input("Enter your name: ")
+print("Hello", name)
